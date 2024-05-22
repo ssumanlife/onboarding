@@ -1,3 +1,5 @@
+<img src="./assets/team-logo.png" alt="팀 로고" width="130"/>
+
 # 자취모아
 
 ## 서비스 주제
