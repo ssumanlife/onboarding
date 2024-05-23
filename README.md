@@ -41,7 +41,7 @@ git clone https://github.com/ssumanlife/onboarding.git
 npm install
 ```
 
-VSCode 설치
+### VSCode 설치
 
 1. VSCode를 설치 하기위해 [VSCode 홈](https://code.visualstudio.com/ "vscode link")으로 이동합니다.
 2. Window 사용자는 Windows를, Mac 사용자는 Mac 버튼을 클릭하여 다운로드를 완료합니다.
@@ -59,7 +59,7 @@ npm run dev
 
 ## 배포
 
-배포 단계는 백엔드 관련 부분이라 잘 모르겠습니다.
+배포 단계는 잘 모르겠습니다.
 
 &nbsp;
 
