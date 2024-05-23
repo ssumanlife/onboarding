@@ -39,12 +39,14 @@
 2. Window 사용자는 Windows를, Mac 사용자는 Mac 버튼을 클릭하여 다운로드를 완료합니다.
 3. 다운로드 된 첨부파일을 실행하여 설치를 시작합니다.
 
-### VSCode 실행
+### 실행
 
 개발자 로컬 환경에서 개발 모드로 실행하기 위해선 프로젝트 루트 디렉토리에서 다음의 명령을 실행하세요.
 
 ```
-npm run dev
+git clone https://github.com/ssumanlife/onboarding.git
+
+npm install
 ```
 
 &nbsp;
