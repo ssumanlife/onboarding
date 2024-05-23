@@ -5,7 +5,7 @@
 - 팀명: 나혼자 3다 / 이유: 자취 관련 프로젝트 + 3조
 - 팀원: 김다은, 김수민B, 손성오, 이연지, 권혜지
 
-<img src="https://github.com/ssumanlife/onboarding/assets/92978022/f5e61b3f-4b2c-46f6-847e-63e00694c9cd" width="409" height="461"/>
+<img src="https://github.com/ssumanlife/onboarding/assets/92978022/f5e61b3f-4b2c-46f6-847e-63e00694c9cd" width="309" height="361"/>
 
 &nbsp;
 
@@ -30,9 +30,10 @@
 
 &nbsp;
 
-## VSCode 설치 및 실행
+## 설치
 
-### VSCode 설치
+자취 정보 스크랩 및 공유 서비스 자취모아는 서버와 클라이언트 시스템으로 구성되며 Javascript 와 Nodejs 기반으로 구성되어있습니다.
+프로젝트 저장소를 다음 설명에 따라 개발자 컴퓨터에 복사하고 설치 명령을 입력하여 설치를 할 수 있습니다.
 
 1. VSCode를 설치 하기위해 [VSCode 홈](https://code.visualstudio.com/ "vscode link")으로 이동합니다.
 2. Window 사용자는 Windows를, Mac 사용자는 Mac 버튼을 클릭하여 다운로드를 완료합니다.
@@ -64,7 +65,7 @@ npm run dev
   - 스크랩 폴더 생성, 스크랩 링크 및 메모 작성/수정/삭제, 스크랩 폴더 공유, 좋아요
 - 채팅
   - 1:1 채팅
-  - 전체 채팅
+  - 단체 채팅
 
 &nbsp;
 
