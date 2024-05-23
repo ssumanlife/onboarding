@@ -35,6 +35,14 @@
 자취 정보 스크랩 및 공유 서비스 자취모아는 서버와 클라이언트 시스템으로 구성되며 Javascript 와 Nodejs 기반으로 구성되어있습니다.
 프로젝트 저장소를 다음 설명에 따라 개발자 컴퓨터에 복사하고 설치 명령을 입력하여 설치를 할 수 있습니다.
 
+```
+git clone https://github.com/ssumanlife/onboarding.git
+
+npm install
+```
+
+VSCode 설치
+
 1. VSCode를 설치 하기위해 [VSCode 홈](https://code.visualstudio.com/ "vscode link")으로 이동합니다.
 2. Window 사용자는 Windows를, Mac 사용자는 Mac 버튼을 클릭하여 다운로드를 완료합니다.
 3. 다운로드 된 첨부파일을 실행하여 설치를 시작합니다.
@@ -44,9 +52,7 @@
 개발자 로컬 환경에서 개발 모드로 실행하기 위해선 프로젝트 루트 디렉토리에서 다음의 명령을 실행하세요.
 
 ```
-git clone https://github.com/ssumanlife/onboarding.git
-
-npm install
+npm run dev
 ```
 
 &nbsp;
